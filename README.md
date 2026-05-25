@@ -125,7 +125,7 @@ Exit Strategy →  farewell intent → break loop
 
 ## Author
 
-**AI Intern : M Saad **
+**AI Intern : M Saad**
 
 ---
 
